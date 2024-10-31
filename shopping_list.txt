@@ -2,3 +2,4 @@ bread
 milk
 butter
 brown sugar
+cinnamon
